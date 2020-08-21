@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/new/bypass">
+        <file>Bypasses/DBFighterZ.exe</file>
+        <file>Bypasses/EasyAntiCheat_x64.dll</file>
+        <file>Bypasses/GRB_BE.exe</file>
+        <file>Bypasses/ONE PUNCH MAN A HERO NOBODY KNOWS (1).exe</file>
+        <file>Bypasses/Outlaws-Win64-Shipping_BE (1).exe</file>
+        <file>Bypasses/SAOA.exe</file>
+        <file>Bypasses/SAOFB_Launcher.exe</file>
+        <file>Bypasses/SGWC.exe</file>
+        <file>Bypasses/start.exe</file>
+        <file>Bypasses/Wildland Bypass.exe</file>
+    </qresource>
+    <qresource prefix="/new/thumbails">
+        <file>Thumbnails/DBFZ.jpg</file>
+        <file>Thumbnails/DBX2.jpg</file>
+        <file>Thumbnails/GRB.jpg</file>
+        <file>Thumbnails/GRW.jpg</file>
+        <file>Thumbnails/OOTOW.jpg</file>
+        <file>Thumbnails/OPM.jpg</file>
+        <file>Thumbnails/SAOA.jpg</file>
+        <file>Thumbnails/SAOFB.jpg</file>
+        <file>Thumbnails/SGWC.jpg</file>
+    </qresource>
+</RCC>
